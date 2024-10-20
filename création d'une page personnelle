@@ -125,27 +125,27 @@
             <thead>
                 <tr>
                     <th>Nom</th>
-                    <th>Prénom</th>
+                    <th>age</th>
                     <th>Ville</th>
                     <th>Lien vers leur profil</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td>Nada</td>
-                    <td>Marnissi</td>
+                    <td>marnissi</td>
+                    <td>21</td>
                     <td>Casablanca</td>
                     <td><a href="#">Profil</a></td>
                 </tr>
                 <tr>
-                    <td>Najwa</td>
-                    <td>Laftine</td>
+                    <td>laftine</td>
+                    <td>20</td>
                     <td>Casablanca</td>
                     <td><a href="#">Profil</a></td>
                 </tr>
                 <tr>
-                    <td>Safae</td>
-                    <td>Elbayed</td>
+                    <td>elbayed</td>
+                    <td>20</td>
                     <td>Casablanca</td>
                     <td><a href="#">Profil</a></td>
                 </tr>
